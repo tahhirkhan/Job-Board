@@ -1,2 +1,2 @@
-# Jobs Board
+# Job Board
  
